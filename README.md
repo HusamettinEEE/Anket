@@ -1,2 +1,4 @@
-# Anket
-Codivity Anket Sistemi
+# POLL 
+
+For installation after clone the project.
+>npm install 
