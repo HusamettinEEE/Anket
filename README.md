@@ -1,2 +1,0 @@
-# Anket
-Codivity Anket Sistemi
